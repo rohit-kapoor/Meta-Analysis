@@ -1,2 +1,1 @@
-# Working-with-metafor
-This is basic code used in metafor package
+This repository demonstrates how to conduct a meta-analysis using R.
